@@ -1,0 +1,17 @@
+.singlespacing:hover {
+    color:blueviolet
+}
+
+#school {
+    color:brown
+}
+
+
+h2:hover {
+    color:darkgreen !important
+}
+
+
+.single-spaced {
+    line-height: 1;
+}
